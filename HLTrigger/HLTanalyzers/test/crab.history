@@ -1,0 +1,1059 @@
+130722_112644: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -create
+130722_113832: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_114059: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -submit -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_114810: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_121607: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_121652: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -getoutput -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_132338: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -create
+130722_132404: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -submit -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_132958: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_133435: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_133703: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_134025: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_134127: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -getoutput -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_134923: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_135225: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_135433: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_135501: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -create
+130722_135516: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -submit -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_135837: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_140740: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_142355: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_142909: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -create
+130722_142949: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -submit -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_50ns/
+130722_143804: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -create
+130722_144012: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -submit -c G_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_144143: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -create
+130722_144235: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -submit -c G_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_50ns/
+130722_151509: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_151539: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_50ns/
+130722_151611: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c G_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_151654: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c G_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_50ns/
+130722_160407: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_160439: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_50ns/
+130722_160625: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -getoutput -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_50ns/
+130722_164222: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_164353: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -getoutput -c QCD_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_170502: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c G_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_170553: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -getoutput -c G_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+130722_172018: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c G_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_50ns/
+130722_172734: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c G_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_50ns/
+130722_173002: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -getoutput -c G_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_50ns/
+130722_174304: /uscmst1/prod/grid/CRAB_2_8_8/python/crab.py -status -c G_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_50ns/
+130830_120143: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_120238: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_25ns/
+130830_121611: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_25ns/
+130830_124916: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_25ns/
+130830_125019: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_125041: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_50ns/
+130830_130036: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_130059: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_8TeV_pythia6_50ns/
+130830_130320: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_130344: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_8TeV_pythia6_25ns/
+130830_130512: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_130642: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-50to80_TuneZ2star_8TeV_pythia6_25ns/
+130830_130743: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_130837: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-50to80_TuneZ2star_8TeV_pythia6_50ns/
+130830_130950: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_131027: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-80to120_TuneZ2star_8TeV_pythia6_50ns/
+130830_131206: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_131236: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-80to120_TuneZ2star_8TeV_pythia6_25ns/
+130830_131501: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_131524: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_25ns/
+130830_131609: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_131801: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_50ns/
+130830_131908: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_131926: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_50ns/
+130830_132036: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_132108: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_25ns/
+130830_132258: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_132323: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_25ns/
+130830_132405: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_132502: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_50ns/
+130830_132610: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_132632: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_50ns/
+130830_132741: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_132805: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_25ns/
+130830_132851: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_132927: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_25ns/
+130830_133129: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_133151: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_50ns/
+130830_133325: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_133435: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_50ns/
+130830_133544: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_133616: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_25ns/
+130830_133749: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_133811: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_25ns/
+130830_133953: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_134039: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_50ns/
+130830_134404: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_134717: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_50ns/
+130830_134917: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_134939: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_25ns/
+130830_135031: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_135058: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-1800_TuneZ2star_8TeV_pythia6_25ns/
+130830_135144: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_135209: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-1800_TuneZ2star_8TeV_pythia6_50ns/
+130830_153551: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_153703: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+130830_153809: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_153833: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+130830_153934: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_154215: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+130830_154306: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_154354: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+130830_154436: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_154500: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+130830_155333: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_155427: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+130830_155525: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_155624: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+130830_155815: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_155921: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+130830_160007: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_160052: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+130830_160216: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_160413: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+130830_160711: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_160740: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-20to30_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+130830_160849: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_160926: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-20to30_EMEnriched_TuneZ2star_8TeV_pythia6_50ns/
+130830_161006: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_161032: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-30to80_EMEnriched_TuneZ2star_8TeV_pythia6_50ns/
+130830_161133: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_161201: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-30to80_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+130830_161311: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_161336: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-80to170_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+130830_161457: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_161541: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-80to170_EMEnriched_TuneZ2star_8TeV_pythia6_50ns/
+130830_162351: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_162846: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c WToENu_TuneZ2star_8TeV_pythia6_25ns/
+130830_163033: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_163153: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c WToENu_TuneZ2star_8TeV_pythia6_50ns/
+130830_163339: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_163445: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c WToMuNu_TuneZ2star_8TeV_pythia6_50ns/
+130830_163543: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_163735: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c WToMuNu_TuneZ2star_8TeV_pythia6_25ns/
+130830_163852: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_164212: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_164313: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_164500: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c WJetsToLNu_TuneZ2star_8TeV-madgraph-tarball_25ns/
+130830_164546: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_164602: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c WJetsToLNu_TuneZ2star_8TeV-madgraph-tarball_50ns/
+130830_164828: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_164850: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c DYJetsToLL_M-50_TuneZ2star_8TeV-madgraph-tarball_50ns/
+130830_164940: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_165017: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c DYJetsToLL_M-50_TuneZ2star_8TeV-madgraph-tarball_25ns/
+130830_165117: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_165232: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_165258: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c DYToMuMu_M_20_TuneZ2star_8TeV_pythia6_25ns/
+130830_165428: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_165444: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c DYToMuMu_M_20_TuneZ2star_8TeV_pythia6_25ns/
+130830_165507: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_165536: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c DYToMuMu_M_20_TuneZ2star_8TeV_pythia6_50ns/
+130830_165554: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_165618: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c DYToEE_M_20_TuneZ2star_8TeV_pythia6_50ns/
+130830_165635: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130830_165647: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c DYToEE_M_20_TuneZ2star_8TeV_pythia6_25ns/
+130905_122747: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130905_122849: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130905_123701: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-15to30_TuneZ2star_13TeV-pythia6_25ns/
+130905_123927: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130905_125307: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130905_125453: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV-pythia6_25ns/
+130905_125620: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130905_130206: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-50to80_TuneZ2star_13TeV-pythia6_25ns/
+130905_130255: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130905_130320: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-80to120_TuneZ2star_13TeV-pythia6_25ns/
+130905_143718: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_25ns
+130905_143834: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_25ns
+130905_144022: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_25ns
+130905_145016: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_25ns
+130905_145320: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_25ns
+130905_145420: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 10 -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_25ns
+130905_145514: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 13,16-17,20,22,31-32,34,36-37,40,42-43,51 -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_25ns
+130905_145603: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_50ns
+130905_145630: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_50ns
+130905_150209: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_25ns/
+130905_150243: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_25ns/
+130905_150751: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_50ns
+130905_150822: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 3,10,12,15,17,27,34,38-39,42,44-45,49 -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_50ns
+130905_150948: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_25ns
+130905_151341: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_25ns/
+130905_151615: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_25ns
+130905_153736: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_25ns
+130905_160010: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_25ns
+130905_163209: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_25ns
+130905_163424: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 4,25,36,42 -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_25ns/
+130905_163504: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_50ns/
+130905_163605: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_50ns/
+130905_164558: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_50ns/
+130905_164617: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 4,13-16,20,34,39,45,51 -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_50ns/
+130905_164746: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_25ns/
+130905_164826: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_25ns/
+130905_165859: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_25ns/
+130905_165919: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 1-2,4-5,8,13-14,16,21,27-29,41,44-45 -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_25ns/
+130905_170032: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_50ns/
+130905_170339: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_50ns/
+130905_171613: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_50ns/
+130905_171630: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 24-27,31 -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_50ns/
+130905_171920: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_25ns/
+130905_172032: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_25ns/
+130905_173114: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_25ns/
+130905_173938: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 4,10,13,18-19,21,23,34,36,38-39,41,45,47,51 -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_25ns/
+130905_174435: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_50ns/
+130905_174517: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_50ns/
+130905_175430: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_50ns/
+130905_175446: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 1-2,4,6,12-14,16,27,29,36,44-45,49 -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_50ns/
+130905_175724: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_25ns/
+130905_175752: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_25ns/
+130905_180727: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_25ns/
+130905_182305: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 6-7,11-14,19,21,25,36-37,39,48-49 -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_25ns/
+130905_182404: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_50ns/
+130905_182445: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_50ns/
+130905_183423: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_50ns/
+130905_183609: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 2,6,9,13-15,20,23-24,29,35,40 -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_50ns/
+130906_094530: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_25ns/
+130906_094608: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_25ns/
+130906_095200: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_25ns/
+130906_095250: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_25ns/
+130906_095520: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_25ns/
+130906_095537: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 9,15-16,18,25,36,39,49 -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_25ns/
+130906_095638: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_50ns/
+130906_095734: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_50ns/
+130906_100809: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_50ns/
+130906_100828: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_25ns/
+130906_100838: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_50ns/
+130906_100851: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_25ns/
+130906_100858: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_50ns/
+130906_100912: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 6,20,24-27,31-33,38 -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_50ns/
+130906_100916: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_25ns/
+130906_100929: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 9-10,13,16-18,20,26-28,38,45 -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_25ns/
+130906_101006: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_25ns/
+130906_101016: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_50ns/
+130906_101044: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_50ns/
+130906_101055: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_25ns/
+130906_105732: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_25ns/
+130906_105758: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_25ns/
+130906_105805: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_50ns/
+130906_105819: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_50ns/
+130906_105856: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_50ns/
+130906_105906: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_25ns/
+130906_105922: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_25ns/
+130906_105933: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 11,17-18,38 -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_50ns/
+130906_105940: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_25ns/
+130906_105952: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 15-16,23-24,33,50 -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_25ns/
+130906_110026: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 2 -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_50ns/
+130906_110039: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 2-3 -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_25ns/
+130906_110157: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_50ns/
+130906_110208: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-1800_TuneZ2star_8TeV_pythia6_25ns/
+130906_110223: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_50ns/
+130906_110236: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-1800_TuneZ2star_8TeV_pythia6_25ns/
+130906_112429: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-1800_TuneZ2star_8TeV_pythia6_25ns/
+130906_112432: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_50ns/
+130906_112451: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 11,14-15,17,23,39,43-44,49-50 -c QCD_Pt-1800_TuneZ2star_8TeV_pythia6_25ns/
+130906_112503: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 12,22,32,35,43 -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_50ns/
+130906_112534: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-1800_TuneZ2star_8TeV_pythia6_50ns/
+130906_112612: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c DYToEE_M_20_TuneZ2star_8TeV_pythia6_25ns/
+130906_112620: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-1800_TuneZ2star_8TeV_pythia6_50ns/
+130906_112627: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c DYToEE_M_20_TuneZ2star_8TeV_pythia6_25ns/
+130906_112637: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c DYToEE_M_20_TuneZ2star_8TeV_pythia6_25ns/
+130906_112649: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c DYToEE_M_20_TuneZ2star_8TeV_pythia6_50ns/
+130906_112659: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c DYToEE_M_20_TuneZ2star_8TeV_pythia6_50ns/
+130906_112707: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c DYToEE_M_20_TuneZ2star_8TeV_pythia6_50ns/
+130906_112721: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c DYToMuMu_M_20_TuneZ2star_8TeV_pythia6_25ns/
+130906_112729: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c DYToMuMu_M_20_TuneZ2star_8TeV_pythia6_25ns/
+130906_112739: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c DYToMuMu_M_20_TuneZ2star_8TeV_pythia6_25ns/
+130906_112746: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c DYToMuMu_M_20_TuneZ2star_8TeV_pythia6_50ns/
+130906_112753: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c DYToMuMu_M_20_TuneZ2star_8TeV_pythia6_50ns/
+130906_112805: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c DYToMuMu_M_20_TuneZ2star_8TeV_pythia6_50ns/
+130906_112822: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 13 -c DYToMuMu_M_20_TuneZ2star_8TeV_pythia6_50ns/
+130906_112934: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c DYJetsToLL_M-50_TuneZ2star_8TeV-madgraph-tarball_25ns/
+130906_112959: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c DYJetsToLL_M-50_TuneZ2star_8TeV-madgraph-tarball_25ns/
+130906_113534: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-1800_TuneZ2star_8TeV_pythia6_50ns/
+130906_113554: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 1,8,13,19-20,29,33,37,41,47 -c QCD_Pt-1800_TuneZ2star_8TeV_pythia6_50ns/
+130906_113833: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c WJetsToLNu_TuneZ2star_8TeV-madgraph-tarball_25ns/
+130906_114517: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c DYJetsToLL_M-50_TuneZ2star_8TeV-madgraph-tarball_25ns/
+130906_114526: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c WJetsToLNu_TuneZ2star_8TeV-madgraph-tarball_25ns/
+130906_114543: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 4-5,10,13-16,19,21,24,26-27,41,47,49 -c DYJetsToLL_M-50_TuneZ2star_8TeV-madgraph-tarball_25ns/
+130906_114643: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c DYJetsToLL_M-50_TuneZ2star_8TeV-madgraph-tarball_50ns/
+130906_114936: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c DYJetsToLL_M-50_TuneZ2star_8TeV-madgraph-tarball_50ns/
+130906_115444: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c WJetsToLNu_TuneZ2star_8TeV-madgraph-tarball_25ns/
+130906_115456: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 3-6,13,24,30,40,47,49 -c WJetsToLNu_TuneZ2star_8TeV-madgraph-tarball_25ns/
+130906_151744: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c WJetsToLNu_TuneZ2star_8TeV-madgraph-tarball_50ns/
+130906_151817: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c DYJetsToLL_M-50_TuneZ2star_8TeV-madgraph-tarball_50ns/
+130906_151825: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c WJetsToLNu_TuneZ2star_8TeV-madgraph-tarball_50ns/
+130906_151852: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 3-4,15-16,18,23,33,41 -c DYJetsToLL_M-50_TuneZ2star_8TeV-madgraph-tarball_50ns/
+130906_151930: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c WJetsToLNu_TuneZ2star_8TeV-madgraph-tarball_50ns/
+130906_152436: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-15to30_TuneZ2star_13TeV-pythia6_25ns/
+130906_152549: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-15to30_TuneZ2star_13TeV-pythia6_25ns/
+130906_152936: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c WJetsToLNu_TuneZ2star_8TeV-madgraph-tarball_50ns/
+130906_152949: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 4-5,7,13,35-37,46 -c WJetsToLNu_TuneZ2star_8TeV-madgraph-tarball_50ns/
+130906_153050: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-30to50_TuneZ2star_13TeV-pythia6_25ns/
+130906_153137: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-30to50_TuneZ2star_13TeV-pythia6_25ns/
+130906_153732: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-15to30_TuneZ2star_13TeV-pythia6_25ns/
+130906_153803: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 35 -c QCD_Pt-15to30_TuneZ2star_13TeV-pythia6_25ns/
+130906_154133: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-30to50_TuneZ2star_13TeV-pythia6_25ns/
+130906_154154: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 35 -c QCD_Pt-50to80_TuneZ2star_13TeV-pythia6_25ns/
+130906_154204: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-80to120_TuneZ2star_13TeV-pythia6_25ns/
+130906_154238: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-80to120_TuneZ2star_13TeV-pythia6_25ns/
+130906_154314: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-15to30_TuneZ2star_13TeV-pythia6_25ns/
+130906_155240: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-80to120_TuneZ2star_13TeV-pythia6_25ns/
+130906_155257: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -resubmit 18,23 -c QCD_Pt-80to120_TuneZ2star_13TeV-pythia6_25ns/
+130913_160507: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-15to30_TuneZ2star_13TeV-pythia6_25ns/
+130913_161057: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130913_161122: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV-pythia6_25ns/
+130913_162053: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130913_162122: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_13TeV-pythia6_25ns/
+130913_162217: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130913_162243: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_13TeV-pythia6_25ns/
+130913_162330: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130913_162353: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_13TeV-pythia6_25ns/
+130913_162432: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130913_162812: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_13TeV-pythia6_25ns/
+130913_162952: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130913_163101: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130913_163126: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-20to30_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+130913_163209: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130913_163232: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+130913_163313: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130913_163350: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-80to170_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+130913_163638: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130913_163715: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c DYToEE_M_20_TuneZ2star_13TeV_pythia6/
+130913_163757: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130913_163844: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c DYToMuMu_M_20_TuneZ2star_13TeV_pythia6/
+130913_164055: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130913_164206: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130913_164315: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130913_164342: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c DYToMuMu_M_20_TuneZ2star_13TeV_pythia6_25ns/
+130913_164426: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130913_164447: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c DYToEE_M_20_TuneZ2star_13TeV_pythia6_25ns/
+130913_164544: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130913_164609: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c WToMuNu_TuneZ2star_13TeV_pythia6_25ns/
+130913_164708: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130913_164727: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c WToENu_TuneZ2star_13TeV_pythia6_25ns/
+130916_103226: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -create
+130916_103332: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -submit -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_13TeV-pythia6_25ns/
+130916_103634: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_13TeV-pythia6_25ns/
+130916_103706: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_13TeV-pythia6_25ns/
+130916_110128: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_13TeV-pythia6_25ns/
+130916_110152: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_13TeV-pythia6_25ns/
+130916_110230: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_13TeV-pythia6_25ns/
+130916_111434: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_13TeV-pythia6_25ns/
+130916_112026: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_13TeV-pythia6_25ns/
+130916_112144: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_13TeV-pythia6_25ns/
+130916_113137: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_13TeV-pythia6_25ns/
+130916_113148: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_13TeV-pythia6_25ns/
+130916_113236: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_13TeV-pythia6_25ns/
+130916_114342: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_13TeV-pythia6_25ns/
+130916_114459: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-20to30_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+130916_114530: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-20to30_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+130916_124249: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-20to30_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+130916_124344: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+130916_124416: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+130916_125731: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+130916_130051: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-80to170_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+130916_130129: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c QCD_Pt-80to170_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+130916_131125: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c QCD_Pt-80to170_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+130916_131144: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c WToENu_TuneZ2star_13TeV_pythia6_25ns/
+130916_131228: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c WToENu_TuneZ2star_13TeV_pythia6_25ns/
+130916_132201: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c WToENu_TuneZ2star_13TeV_pythia6_25ns/
+130916_133756: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c WToMuNu_TuneZ2star_13TeV_pythia6_25ns/
+130916_133827: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c WToMuNu_TuneZ2star_13TeV_pythia6_25ns/
+130916_150558: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c WToMuNu_TuneZ2star_13TeV_pythia6_25ns/
+130916_150641: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c DYToEE_M_20_TuneZ2star_13TeV_pythia6_25ns/
+130916_150744: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c DYToEE_M_20_TuneZ2star_13TeV_pythia6_25ns/
+130916_151805: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c DYToEE_M_20_TuneZ2star_13TeV_pythia6_25ns/
+130916_151819: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c DYToMuMu_M_20_TuneZ2star_13TeV_pythia6_25ns/
+130916_152055: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -getoutput -c DYToMuMu_M_20_TuneZ2star_13TeV_pythia6_25ns/
+130916_153040: /uscmst1/prod/grid/CRAB_2_9_0/python/crab.py -status -c DYToMuMu_M_20_TuneZ2star_13TeV_pythia6_25ns/
+131002_131527: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131002_132609: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131002_132707: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c WToENu_TuneZ2star_13TeV_pythia6_25ns/
+131002_132921: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131002_133028: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns/
+131002_133338: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131002_133603: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-120to170_TuneZ2star_13TeV_pythia6_25ns/
+131002_133705: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131002_133748: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-170to300_TuneZ2star_13TeV_pythia6_25ns/
+131002_134636: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131002_134950: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-300to470_TuneZ2star_13TeV_pythia6_25ns/
+131002_135133: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131002_135232: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-470to600_TuneZ2star_13TeV_pythia6_25ns/
+131002_135332: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131002_135416: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-600to800_TuneZ2star_13TeV_pythia6_25ns/
+131002_135632: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131002_135747: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-800to1000_TuneZ2star_13TeV_pythia6_25ns/
+131002_140110: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131002_140143: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-800to1000_TuneZ2star_13TeV_pythia6_25ns/
+131002_140443: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131002_140643: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1000to1400_TuneZ2star_13TeV_pythia6_25ns/
+131002_140842: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131002_141029: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1400to1800_TuneZ2star_13TeV_pythia6_25ns/
+131002_141139: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131002_141202: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1800_TuneZ2star_13TeV_pythia6_25ns/
+131010_135624: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-1800_TuneZ2star_13TeV_pythia6_25ns/
+131010_140201: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131010_140310: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1800_TuneZ2star_13TeV_pythia6_25ns/
+131010_142310: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131010_142342: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1800_TuneZ2star_13TeV_pythia6_25ns/
+131010_152349: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-1800_TuneZ2star_13TeV_pythia6_25ns/
+131010_153918: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-1800_TuneZ2star_13TeV_pythia6_25ns/
+131011_113207: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-1800_TuneZ2star_13TeV_pythia6_25ns/
+131011_113220: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-1800_TuneZ2star_13TeV_pythia6_25ns/
+131011_113225: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-1800_TuneZ2star_13TeV_pythia6_25ns/
+131031_135108: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131031_135413: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v2/
+131031_140024: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131031_140100: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131031_140147: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v2
+131031_141729: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131031_141810: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns_v2
+131101_074920: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns_v2/
+131101_075045: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns_v2/
+131106_103955: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131106_104140: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v2/
+131106_104641: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v2/
+131106_152205: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v2/
+131106_152230: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v2/
+131106_171713: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131106_171740: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to20_TuneZ2star_13TeV_pythia6_25ns_v2/
+131106_172010: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131106_172539: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131106_172912: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131106_173055: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131106_173114: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns_v2/
+131106_173210: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131106_173238: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns_v2/
+131106_173522: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131106_173542: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns_v2/
+131106_173902: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131106_173944: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns_v2/
+131106_174722: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131106_175012: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131106_175216: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns_v2/
+131106_175324: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131106_175345: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns_v2/
+131106_181147: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131106_181206: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns_v2/
+131106_181349: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131106_181407: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns_v2/
+131106_184246: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131106_184313: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns_v2/
+131106_184628: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131106_184643: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns_v2/
+131111_125333: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_125437: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns_v2/
+131111_125528: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_125551: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns_v2/
+131111_125645: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_125705: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns_v2/
+131111_125821: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_125837: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns_v2/
+131111_125920: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_125935: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns_v2/
+131111_130304: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_130329: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_130450: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_130847: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_130920: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -kill -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_130951: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -kill 1-51 -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_131252: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_131320: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns_v2/
+131111_131512: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_131541: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_131636: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_131657: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_131755: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_131807: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns_v2/
+131111_131852: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_131913: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns_v2/
+131111_131956: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_132037: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_132131: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_132233: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_132340: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_132402: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns_v2/
+131111_132448: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_132533: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns_v2/
+131111_132641: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_132804: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_134431: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_134455: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to30_TuneZ2star_13TeV_pythia6_25ns_v2/
+131111_134723: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_134739: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v2/
+131111_134830: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_134849: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-50to80_TuneZ2star_13TeV_pythia6_25ns_v2/
+131111_134932: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_135001: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to120_TuneZ2star_13TeV_pythia6_25ns_v2/
+131111_135046: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_135105: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-120to170_TuneZ2star_13TeV_pythia6_25ns_v2/
+131111_135228: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_135242: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-120to170_TuneZ2star_13TeV_pythia6_25ns_v2/
+131111_135328: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_135535: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_135557: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-170to300_TuneZ2star_13TeV_pythia6_25ns_v2/
+131111_135717: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_135841: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-300to470_TuneZ2star_13TeV_pythia6_25ns_v2/
+131111_140017: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_140055: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-470to600_TuneZ2star_13TeV_pythia6_25ns_v2/
+131111_140225: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_140247: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-600to800_TuneZ2star_13TeV_pythia6_25ns_v2/
+131111_140335: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_140405: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-800to1000_TuneZ2star_13TeV_pythia6_25ns_v2/
+131111_140506: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_140545: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1000to1400_TuneZ2star_13TeV_pythia6_25ns_v2/
+131111_140641: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_140733: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1400to1800_TuneZ2star_13TeV_pythia6_25ns_v2/
+131111_140859: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_140929: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_141011: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_141031: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1800_TuneZ2star_13TeV_pythia6_25ns_v2/
+131111_145403: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_145530: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_145655: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_145711: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_50ns_v2/
+131111_145758: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_145818: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_8TeV_pythia6_50ns_v2/
+131111_145910: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_145934: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_150033: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_150101: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-50to80_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_150159: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_150219: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-50to80_TuneZ2star_8TeV_pythia6_50ns_v2/
+131111_150324: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_150352: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to120_TuneZ2star_8TeV_pythia6_50ns_v2/
+131111_150504: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_150521: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to120_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_150615: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_150634: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_150742: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_150800: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_50ns_v2/
+131111_150853: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_150936: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_50ns_v2/
+131111_151017: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_151034: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_151210: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_151239: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_151338: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_151358: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_50ns_v2/
+131111_151451: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_151509: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_50ns_v2/
+131111_151547: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_151604: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_151652: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_151722: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_151806: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_151826: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_50ns_v2/
+131111_151924: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_151942: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_50ns_v2/
+131111_152021: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_152036: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_152122: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_152201: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_152224: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_152309: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_152323: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_50ns_v2/
+131111_152406: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_152426: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_50ns_v2/
+131111_152509: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_152531: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_152622: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_152643: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1800_TuneZ2star_8TeV_pythia6_25ns_v2/
+131111_152808: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131111_152837: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1800_TuneZ2star_8TeV_pythia6_50ns_v2/
+131114_100822: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131114_100900: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v3/
+131114_101635: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131114_102220: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131114_102324: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v3
+131114_103353: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131114_103859: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131114_103947: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v3/
+131114_104620: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131114_104812: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v3/
+131114_104917: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131114_104945: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v3/
+131114_113849: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131114_113940: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v3
+131114_115649: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131114_115724: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v3/
+131114_120114: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131114_120145: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v3/
+131114_121123: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131114_121143: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v3/
+131114_124515: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131114_124541: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v3/
+131114_125201: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131114_125222: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v3EM/
+131114_133709: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v3/
+131114_133737: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v3/
+131114_135549: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v3EM/
+131114_135559: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v3EM/
+131114_181958: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131114_182053: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns_v3/
+131114_182303: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns_v3/
+131114_182828: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns_v3/
+131114_183630: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns_v3/
+131114_184740: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns_v3/
+131115_074615: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns_v3/
+131117_215535: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131117_215635: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131117_215701: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v2/
+131118_100713: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v2/
+131118_100805: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns_v3/
+131118_115914: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v2/
+131118_120040: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -kill 1-51 -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v2/
+131118_120132: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_v2/
+131118_120220: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns_v3/
+131118_120454: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -kill 1-3 -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns_v3/
+131118_120612: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131118_120709: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131118_120743: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_TEST/
+131118_123301: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns_TEST/
+131118_160512: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131118_160914: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131118_161305: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131118_161419: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131118_161739: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-20to30_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131118_161834: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131118_161954: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131118_162134: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131118_162217: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131118_162326: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to170_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131118_162416: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131118_162545: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns/
+131118_162623: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131118_162707: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns/
+131118_163821: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131118_164628: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131118_164718: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns/
+131118_164757: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131118_164828: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns/
+131118_164848: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131118_164921: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns/
+131118_164945: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131118_165039: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns/
+131118_165349: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_165429: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to30_TuneZ2star_13TeV_pythia6_25ns/
+131118_165449: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_165520: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns/
+131118_165548: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_165623: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-50to80_TuneZ2star_13TeV_pythia6_25ns/
+131118_165641: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_165708: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to120_TuneZ2star_13TeV_pythia6_25ns/
+131118_165723: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_165755: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_165829: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-120to170_TuneZ2star_13TeV_pythia6_25ns/
+131118_165851: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_165915: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_165950: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-170to300_TuneZ2star_13TeV_pythia6_25ns/
+131118_170049: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_170121: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-300to470_TuneZ2star_13TeV_pythia6_25ns/
+131118_170146: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_170209: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-470to600_TuneZ2star_13TeV_pythia6_25ns/
+131118_170229: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_170300: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-600to800_TuneZ2star_13TeV_pythia6_25ns/
+131118_170318: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_170343: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-800to1000_TuneZ2star_13TeV_pythia6_25ns/
+131118_170410: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_170437: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1000to1400_TuneZ2star_13TeV_pythia6_25ns/
+131118_170453: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_170523: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1400to1800_TuneZ2star_13TeV_pythia6_25ns/
+131118_170542: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_170607: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1800_TuneZ2star_13TeV_pythia6_25ns/
+131118_170826: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_171229: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131118_171511: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131118_171548: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+131118_171609: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131118_171629: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_EMEnriched_TuneZ2star_8TeV_pythia6_50ns/
+131118_171708: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131118_171749: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to80_EMEnriched_TuneZ2star_8TeV_pythia6_50ns/
+131118_171812: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131118_171837: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to80_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+131118_171904: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131118_171950: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to170_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+131118_172007: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131118_172043: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to170_EMEnriched_TuneZ2star_8TeV_pythia6_50ns/
+131118_172155: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131118_172305: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131118_172346: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131118_172406: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131118_172434: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131118_172456: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131118_172524: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131118_172545: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131118_172610: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131118_172629: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131118_172700: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131118_172746: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131118_172810: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131118_172828: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131118_172920: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131118_172939: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131118_173006: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131118_173028: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131118_173059: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131118_173119: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131118_173146: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131118_173855: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_173942: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_25ns/
+131118_174007: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_174041: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_50ns/
+131118_174104: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_174135: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_8TeV_pythia6_50ns/
+131118_174151: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_174216: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_8TeV_pythia6_25ns/
+131118_174231: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_174351: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-50to80_TuneZ2star_8TeV_pythia6_25ns/
+131118_174413: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_174436: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_174507: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-50to80_TuneZ2star_8TeV_pythia6_50ns/
+131118_174540: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to120_TuneZ2star_8TeV_pythia6_50ns/
+131118_174557: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_174620: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to120_TuneZ2star_8TeV_pythia6_25ns/
+131118_174637: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_174701: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_25ns/
+131118_174717: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_174742: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_50ns/
+131118_174758: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_174823: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_50ns/
+131118_174851: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_174917: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_25ns/
+131118_174936: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_175002: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_25ns/
+131118_175017: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_175043: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_50ns/
+131118_175103: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_175129: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_50ns/
+131118_175148: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_175219: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_25ns/
+131118_175236: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_175321: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_25ns/
+131118_175341: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_175410: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_50ns/
+131118_175428: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_175454: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_50ns/
+131118_175511: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_175713: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_25ns/
+131118_175738: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_175810: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_25ns/
+131118_175828: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_175852: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_50ns/
+131118_175913: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_175944: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_50ns/
+131118_175958: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131118_180027: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_25ns/
+131121_111127: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns/
+131127_101511: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131127_101557: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131127_102202: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131127_103320: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131127_103358: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131127_103428: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131127_103453: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131127_103527: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to170_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131127_103806: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to170_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131127_104710: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131127_104819: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns/
+131127_104941: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131127_105009: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns/
+131127_105038: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131127_105108: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns/
+131127_105131: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131127_105203: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns/
+131127_105223: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131127_105252: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns/
+131127_110307: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_110434: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to30_TuneZ2star_13TeV_pythia6_25ns/
+131127_110631: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_110701: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_13TeV_pythia6_25ns/
+131127_110731: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_110807: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-50to80_TuneZ2star_13TeV_pythia6_25ns/
+131127_110830: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_110853: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to120_TuneZ2star_13TeV_pythia6_25ns/
+131127_110913: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_110928: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-120to170_TuneZ2star_13TeV_pythia6_25ns/
+131127_111014: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_111034: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-120to170_TuneZ2star_13TeV_pythia6_25ns/
+131127_111058: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_111143: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-170to300_TuneZ2star_13TeV_pythia6_25ns/
+131127_111415: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_111452: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-300to470_TuneZ2star_13TeV_pythia6_25ns/
+131127_111512: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_111545: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-470to600_TuneZ2star_13TeV_pythia6_25ns/
+131127_111608: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_111640: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-600to800_TuneZ2star_13TeV_pythia6_25ns/
+131127_111713: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_111753: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-800to1000_TuneZ2star_13TeV_pythia6_25ns/
+131127_111812: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_111842: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1000to1400_TuneZ2star_13TeV_pythia6_25ns/
+131127_112008: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_112121: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1400to1800_TuneZ2star_13TeV_pythia6_25ns/
+131127_113839: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-15to30_TuneZ2star_13TeV_pythia6_25ns
+131127_115450: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131127_115550: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+131127_115617: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131127_115655: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_EMEnriched_TuneZ2star_8TeV_pythia6_50ns/
+131127_115717: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131127_115748: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to80_EMEnriched_TuneZ2star_8TeV_pythia6_50ns/
+131127_115809: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131127_115843: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to80_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+131127_115913: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131127_115949: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to170_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+131127_120015: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_EM.cfg
+131127_120049: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to170_EMEnriched_TuneZ2star_8TeV_pythia6_50ns/
+131127_122447: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131127_122600: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131127_122621: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131127_122648: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131127_122905: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131127_122935: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131127_122957: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131127_123022: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131127_123331: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131127_123412: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131127_123427: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131127_123447: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131127_123609: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131127_123641: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131127_123719: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131127_123745: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131127_132555: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131127_132648: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131127_132706: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_Mu.cfg
+131127_132739: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131127_133719: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_133813: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_25ns/
+131127_133843: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_133920: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_50ns/
+131127_133942: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_134007: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_8TeV_pythia6_50ns/
+131127_134027: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_134102: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to50_TuneZ2star_8TeV_pythia6_25ns/
+131127_134123: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_134201: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-50to80_TuneZ2star_8TeV_pythia6_25ns/
+131127_134219: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_134257: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-50to80_TuneZ2star_8TeV_pythia6_50ns/
+131127_134321: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_134357: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to120_TuneZ2star_8TeV_pythia6_50ns/
+131127_134418: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_134448: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to120_TuneZ2star_8TeV_pythia6_25ns/
+131127_134519: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_134704: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_25ns/
+131127_134737: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_134807: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_50ns/
+131127_134904: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_134934: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_50ns/
+131127_135001: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_135043: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_25ns/
+131127_135103: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_135141: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_25ns/
+131127_135200: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_135235: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_50ns/
+131127_135551: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_135620: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_50ns/
+131127_135645: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_135717: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_25ns/
+131127_143939: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_144036: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_25ns/
+131127_144126: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_144214: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_50ns/
+131127_144314: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_144340: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_50ns/
+131127_144356: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_144423: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_25ns/
+131127_144441: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_144511: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_25ns/
+131127_144530: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_144553: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_50ns/
+131127_144614: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_144641: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_50ns/
+131127_144716: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg crab_QCD.cfg
+131127_144741: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_25ns/
+131127_145927: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131127_145956: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c G_Pt-15to3000_TuneZ2star_Flat_13TeV_pythia6_25ns/
+131127_150052: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131127_150155: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c G_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_25ns/
+131127_150211: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create
+131127_150247: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c G_Pt-15to3000_TuneZ2star_Flat_8TeV_pythia6_50ns/
+131128_143445: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-80to170_EMEnriched_TuneZ2star_8TeV_pythia6_50ns
+131128_143610: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-80to170_EMEnriched_TuneZ2star_8TeV_pythia6_50ns
+131128_144103: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to80_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+131129_161810: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-80to120_TuneZ2star_8TeV_pythia6_25ns/
+131129_161948: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 19-20,42,48 -c QCD_Pt-80to120_TuneZ2star_8TeV_pythia6_25ns
+131129_162002: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-80to120_TuneZ2star_8TeV_pythia6_25ns/
+131129_162016: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-80to120_TuneZ2star_8TeV_pythia6_25ns/
+131129_162029: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 19-20,42,48 -c QCD_Pt-80to120_TuneZ2star_8TeV_pythia6_25ns
+131129_162057: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 31,33,35,41,43-44,49 -c QCD_Pt-80to120_TuneZ2star_8TeV_pythia6_25ns
+131129_162112: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-80to120_TuneZ2star_8TeV_pythia6_50ns/
+131129_162132: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-80to120_TuneZ2star_8TeV_pythia6_50ns/
+131129_162149: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-80to120_TuneZ2star_8TeV_pythia6_50ns/
+131129_162205: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 22,24,35,37,43,47,50,53 -c QCD_Pt-80to120_TuneZ2star_8TeV_pythia6_50ns/
+131129_162225: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 32 -c QCD_Pt-80to120_TuneZ2star_8TeV_pythia6_50ns/
+131129_162832: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_25ns/
+131129_163237: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_25ns/
+131129_163317: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_25ns/
+131129_163334: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 12 -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_25ns/
+131129_163405: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 1,3,5,11,19 -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_25ns/
+131129_163517: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_50ns/
+131129_163553: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_50ns/
+131129_163608: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_50ns/
+131129_163635: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 33 -c QCD_Pt-300to470_TuneZ2star_8TeV_pythia6_50ns/
+131129_163706: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_25ns/
+131129_163720: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_25ns/
+131129_163736: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_25ns/
+131129_163755: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 8,12,14,21,26,41,49 -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_25ns/
+131129_163906: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_50ns/
+131129_163956: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_50ns/
+131129_164007: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_50ns/
+131129_164113: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 5 -c QCD_Pt-1400to1800_TuneZ2star_8TeV_pythia6_50ns/
+131129_164146: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131129_164201: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131129_164227: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131129_164322: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 3,25 -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131129_164347: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 2,9,26-27,36,46 -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131129_164422: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131129_164441: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131129_164511: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131129_164554: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 21,13,35,46,23 -c QCD_Pt-15to20_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131129_164623: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_25ns/
+131129_164637: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_25ns/
+131129_164648: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_25ns/
+131129_164704: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 4,7,33,46,50 -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_25ns/
+131129_164721: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_50ns/
+131129_164737: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_50ns/
+131129_164749: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_50ns/
+131129_164823: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 21-22,7,9,17,20,26-27,51 -c QCD_Pt-1000to1400_TuneZ2star_8TeV_pythia6_50ns/
+131129_164854: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_25ns/
+131129_164912: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_25ns/
+131129_164937: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_25ns/
+131129_165006: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 3,7,9,19,21,24,46 -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_25ns/
+131129_165024: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_50ns/
+131129_165049: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_50ns/
+131129_165103: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_50ns/
+131129_165113: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 25 -c QCD_Pt-120to170_TuneZ2star_8TeV_pythia6_50ns/
+131129_165251: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-80to170_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+131129_165309: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-80to170_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+131129_165333: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-80to170_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+131129_165412: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 1-6,8-26,28-33,35-38,40-43,45-48,52-54,7,34,39,51 -c QCD_Pt-80to170_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+131129_165433: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-80to170_EMEnriched_TuneZ2star_8TeV_pythia6_50ns/
+131129_165538: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-80to170_EMEnriched_TuneZ2star_8TeV_pythia6_50ns/
+131129_165639: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 1-52 -c QCD_Pt-80to170_EMEnriched_TuneZ2star_8TeV_pythia6_50ns/
+131129_165709: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_25ns/
+131129_165736: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_25ns/
+131129_165748: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_25ns/
+131129_165819: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 13-14,17,28-29,31,40,46-47,50,36 -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_25ns/
+131129_165900: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_50ns/
+131129_165947: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_50ns/
+131129_170012: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_50ns/
+131129_170033: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 10,17,24,29,42,46-47,6,16 -c QCD_Pt-800to1000_TuneZ2star_8TeV_pythia6_50ns/
+131129_170231: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131129_170247: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131129_170319: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131129_170400: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 3,10,13,16,18-19,27,30,32,41,48,50-52,11,31 -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131129_170609: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131129_170657: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131129_170715: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131129_170809: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 5,7,11-13,15,24,27,29,47,34,39 -c QCD_Pt-80to120_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131129_170917: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131129_171009: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131129_171020: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131129_171050: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 4,10,12,16,39,41-42,48,1,9,17,28 -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131129_171111: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131129_171146: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131129_171235: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131129_171326: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 11,14,31,49,13,43,39 -c QCD_Pt-50to80_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131129_171358: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_25ns/
+131129_171411: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_25ns/
+131129_171428: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_25ns/
+131129_171457: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 12,15,19,24,26,31,34 -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_25ns/
+131129_171525: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_50ns/
+131129_171606: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_50ns/
+131129_171622: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_50ns/
+131129_171654: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 9,24-25,28,34,40,8,22-23 -c QCD_Pt-600to800_TuneZ2star_8TeV_pythia6_50ns/
+131129_171757: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_25ns/
+131129_171809: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_25ns/
+131129_171825: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_25ns/
+131129_171848: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 4,9,15-16,21,28,30-31,33,38-39,42,47,49-50,53 -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_25ns/
+131129_171906: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_50ns/
+131129_171922: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_50ns/
+131129_171936: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_50ns/
+131129_171952: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 14,17,21,28,35,50 -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_50ns/
+131129_172018: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-20to30_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+131129_172038: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-20to30_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+131129_172055: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-20to30_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+131129_172147: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 29,43 -c QCD_Pt-20to30_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+131129_172210: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-20to30_EMEnriched_TuneZ2star_8TeV_pythia6_50ns/
+131129_172224: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-20to30_EMEnriched_TuneZ2star_8TeV_pythia6_50ns/
+131129_172240: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-20to30_EMEnriched_TuneZ2star_8TeV_pythia6_50ns/
+131129_172313: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 1-2,5-15,17-18,21-26,30-31,33-41,44-51,19-20,27-29,32,42,52 -c QCD_Pt-20to30_EMEnriched_TuneZ2star_8TeV_pythia6_50ns/
+131129_172405: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_25ns/
+131129_172427: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_25ns/
+131129_172442: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_25ns/
+131129_172515: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 11,24,33,42,2,9-10,16-17,19,50,21,34 -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_25ns/
+131129_172533: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_50ns/
+131129_172545: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_50ns/
+131129_172559: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_50ns/
+131129_172618: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 8,19,22,40,42,45,15,48 -c QCD_Pt-170to300_TuneZ2star_8TeV_pythia6_50ns/
+131129_172653: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131129_172706: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131129_172716: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131129_172736: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 3,6-7,12,23-24,26-27,33,47,11,39,41 -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_25ns/
+131129_172751: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131129_172817: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 27-28,35-36,38,47,49,23,31,40 -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131129_172833: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131129_172844: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 27-28,35-36,38,47,49,23,31,40 -c QCD_Pt-20to30_MuEnrichedPt5_TuneZ2star_8TeV_pythia6_50ns/
+131129_172918: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to50_TuneZ2star_8TeV_pythia6_25ns/
+131129_172936: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-30to50_TuneZ2star_8TeV_pythia6_25ns/
+131129_172954: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 35 -c QCD_Pt-30to50_TuneZ2star_8TeV_pythia6_25ns/
+131129_173053: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to50_TuneZ2star_8TeV_pythia6_50ns/
+131129_173107: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-30to50_TuneZ2star_8TeV_pythia6_50ns/
+131129_173119: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to50_TuneZ2star_8TeV_pythia6_50ns/
+131129_173143: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 1,17,31,42-43,8,19,10 -c QCD_Pt-30to50_TuneZ2star_8TeV_pythia6_50ns/
+131129_173213: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131129_173231: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131129_173245: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131129_173302: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 5,8,11,15-16,19,22,27,29-30,33,36,46-47 -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131129_173325: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_25ns/
+131129_173337: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_25ns/
+131129_173352: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_25ns/
+131129_173413: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 6,12,14,26,39,44,27-28,37 -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_25ns/
+131129_173441: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_50ns/
+131129_173458: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_50ns/
+131129_173512: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_50ns/
+131129_173531: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 3-4,9 -c QCD_Pt-470to600_TuneZ2star_8TeV_pythia6_50ns/
+131129_173553: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to80_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+131129_173605: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-30to80_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+131129_173612: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to80_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+131129_173635: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -resubmit 1-7,9-36,39-53,8,38 -c QCD_Pt-30to80_EMEnriched_TuneZ2star_8TeV_pythia6_25ns/
+131129_173652: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to80_EMEnriched_TuneZ2star_8TeV_pythia6_50ns/
+131203_102053: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-15to30_TuneZ2star_8TeV_pythia6_50ns/
+131205_140758: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns/
+131205_140825: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-30to50_MuEnrichedPt5_TuneZ2star_13TeV_pythia6_25ns/
+131209_154344: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_EMEnriched_TuneZ2star_13TeV_pythia6_25ns
+131209_154413: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns
+131209_154417: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to170_EMEnriched_TuneZ2star_13TeV_pythia6_25ns
+131209_161407: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg /uscms_data/d3/ingabu/TMD/CMSSW_5_3_11/src/HLTrigger/HLTanalyzers/test/CrabCfgs/crab_EM_20to30_13.cfg
+131209_161532: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_EMEnriched_TuneZ2star_13TeV_pythia6_25ns
+131209_161545: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg /uscms_data/d3/ingabu/TMD/CMSSW_5_3_11/src/HLTrigger/HLTanalyzers/test/CrabCfgs/crab_EM_30to80_13.cfg
+131209_161603: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns
+131209_161620: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg /uscms_data/d3/ingabu/TMD/CMSSW_5_3_11/src/HLTrigger/HLTanalyzers/test/CrabCfgs/crab_EM_80to170_13.cfg
+131209_161637: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to170_EMEnriched_TuneZ2star_13TeV_pythia6_25ns
+131212_150155: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-20to30_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131212_151658: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg /uscms_data/d3/ingabu/TMD/CMSSW_5_3_11/src/HLTrigger/HLTanalyzers/test/CrabCfgs/crab_EM_20to30_13.cfg
+131212_151821: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-20to30_EMEnriched_TuneZ2star_13TeV_pythia6_25ns
+131212_151840: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg /uscms_data/d3/ingabu/TMD/CMSSW_5_3_11/src/HLTrigger/HLTanalyzers/test/CrabCfgs/crab_EM_30to80_13.cfg
+131212_151904: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns
+131212_151921: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -create -cfg /uscms_data/d3/ingabu/TMD/CMSSW_5_3_11/src/HLTrigger/HLTanalyzers/test/CrabCfgs/crab_EM_80to170_13.cfg
+131212_151944: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -submit -c QCD_Pt-80to170_EMEnriched_TuneZ2star_13TeV_pythia6_25ns
+131212_154201: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-20to30_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131212_160140: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-20to30_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131212_163338: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-20to30_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131212_164521: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-20to30_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131212_164535: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-20to30_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131212_164625: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131212_164640: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-30to80_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131212_164705: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -status -c QCD_Pt-80to170_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
+131212_164717: /uscmst1/prod/grid/CRAB_2_9_1/python/crab.py -getoutput -c QCD_Pt-80to170_EMEnriched_TuneZ2star_13TeV_pythia6_25ns/
